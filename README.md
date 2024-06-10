@@ -10,3 +10,6 @@
 
 [Лекция 3, часть 1](https://github.com/klyshinsky/Math4Linguists2024/blob/main/Lecture_3_1_Finite_Automatons_20240429.ipynb) - Конечные автоматы.
 [Лекция 3, часть 2](https://github.com/klyshinsky/Math4Linguists2024/blob/main/Lecture_3_2_Formal_Parsing_20240429.ipynb) - Разбор с использованием формальных грамматик.
+
+[Лекция 4, часть 1](https://github.com/klyshinsky/Math4Linguists2024/blob/main/Lecture_4_1_Search_in_Graph_20240610.ipynb) - Поиск в графах.
+[Лекция 4, часть 2](https://github.com/klyshinsky/Math4Linguists2024/blob/main/Lecture_4_2_Topic_Modelling.ipynb) - Матрицы, факторизация матриц, SVD.
